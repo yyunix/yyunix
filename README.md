@@ -1,4 +1,4 @@
-### Hi there 👋
+### ✨ Hi there ✨
 
 <!--
 **yyunix/yyunix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Yujeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=yyunix&show_icons=true&theme=tokyonight)
+![](https://leetcard.jacoblin.cool/yyunix?site=us)
 -->
+
